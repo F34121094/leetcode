@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/F34121094/leetcode/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/F34121094/leetcode/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/F34121094/leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
