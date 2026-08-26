@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/F34121094/leetcode/tree/master/0054-spiral-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/F34121094/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2270-number-of-ways-to-split-array](https://github.com/F34121094/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/F34121094/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
