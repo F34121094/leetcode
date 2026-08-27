@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/F34121094/leetcode/tree/master/0054-spiral-matrix) |
+| [0238-product-of-array-except-self](https://github.com/F34121094/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/F34121094/leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/F34121094/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2270-number-of-ways-to-split-array](https://github.com/F34121094/leetcode/tree/master/2270-number-of-ways-to-split-array) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/F34121094/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2270-number-of-ways-to-split-array](https://github.com/F34121094/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
