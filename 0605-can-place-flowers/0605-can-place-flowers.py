@@ -2,7 +2,8 @@ class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
         n_len = len(flowerbed)
 
-        count = 0 
+        if n == 0: return True
+
         for i in range(n_len):
             index_prev = i - 1
             index_next = i + 1
@@ -11,10 +12,10 @@ class Solution:
             next_ = flowerbed[index_next] if index_next != n_len else 0
             
             if not (flowerbed[i] + prev + next_):
-                count += 1
                 flowerbed[i] = 1
-                if count >= n : break
+                n -= 1
+                if n == 0 : return True
 
-        return count >= n
+        return False
             
             
